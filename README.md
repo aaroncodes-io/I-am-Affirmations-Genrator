@@ -1,4 +1,4 @@
-# Mixed-Messages
+# I-am-Affirmations-Genrator
 
 <h3>Description<h3>
 
